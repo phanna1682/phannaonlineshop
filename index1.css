@@ -1,0 +1,15 @@
+body{
+    font-family: 'freehand';
+}
+h1{
+    color: pink;
+    text-decoration: underline;
+    text-align: center;
+}
+.form form{
+    background-color: pink;
+    text-align: center;
+}
+.form input{
+    border-radius: 20px;
+}
