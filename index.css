@@ -1,40 +1,24 @@
-h1{
-    color:brown;
+header{
+    font-size: 45%;
 }
-.nav1 ul{
+.nav ul{
     list-style-type: none;
     padding: 0px;
     margin:0px;
     background-color: blue;
     overflow: hidden;
 }
-.nav1 a{
+.nav a{
     text-decoration: none;
     color:orangered;
     padding: 15px;
     display:block;
     text-align: center;
 }
-.nav1 a:hover{
+.nav a:hover{
     background-color: yellow;
 }
-.nav1 li{
+.nav li{
     float: left;
 }
 /* The sidenav */
-.sidenav {
-    height: 100%;
-    width: 200px;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    background-color: #111;
-    overflow-x: hidden;
-    padding-top: 20px;
-  }
-  
-  /* Page content */
-  .main {
-    margin-left: 200px; /* Same as the width of the sidenav */
-  }
