@@ -24,4 +24,7 @@ header{
 .nav li{
     float: left;
 }
+.order{
+    border-style: outset;
+}
 /* The sidenav */
