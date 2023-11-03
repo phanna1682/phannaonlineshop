@@ -1,0 +1,15 @@
+body{
+    background-color: pink;
+    border: solid;
+    border-style:dotted;
+}
+h4{
+    color:aqua;
+    text-align: center;
+}
+#submit{
+    border-radius: 25px;
+}
+.login{
+    text-align: center;
+}
